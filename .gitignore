@@ -1,0 +1,6 @@
+# generated experiment output (regenerate by running the experiments)
+results/
+*.mat
+*.asv
+*.docx
+~$*
